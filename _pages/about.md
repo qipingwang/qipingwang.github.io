@@ -44,4 +44,4 @@ International Conference on Information Systems (ICIS), 2019
 
 <b>The Rise of Robo-advisors in Wealth Management: Their Capabilities and Limitations</b>    
 ***Qiping Wang*** *and Raymond Y. K. Lau*   
-Proceedings of the 2018 International Congress on Banking, Economics, Finance, and Business, 2018   
+International Congress on Banking, Economics, Finance, and Business, 2018   
