@@ -34,14 +34,14 @@ Decision Support Systems, 2020
 IEEE Consumer Electronics Magazine, 2019   
 
 <b>Is There a Relationship between Social Executives and Firms' Mergers and Acquisitions Decisions: An Empirical Study based on Twitter</b>    
-***Qiping Wang**** and Raymond Y. K. Lau*   
+***Qiping Wang*** *and Raymond Y. K. Lau*   
 The Pacific Asia Conference on Information Systems (PACIS), 2020   
 
 <b>The Impact of Investors’ Surprise Emotion on Post-M&A Performance: A Social Media Analytics Approach</b>    
-***Qiping Wang**** and Raymond Y. K. Lau*   
+***Qiping Wang*** *and Raymond Y. K. Lau*   
 International Conference on Information Systems (ICIS), 2019   
 
 
 <b>The Rise of Robo-advisors in Wealth Management: Their Capabilities and Limitations</b>    
-***Qiping Wang**** and Raymond Y. K. Lau*   
+***Qiping Wang*** *and Raymond Y. K. Lau*   
 Proceedings of the 2018 International Congress on Banking, Economics, Finance, and Business, 2018   
